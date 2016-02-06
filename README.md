@@ -1,6 +1,6 @@
 # InvoiceNinja
 
-[![](https://badge.imagelayers.io/webhippie/invoiceninja:latest.svg)](https://imagelayers.io/?images=webhippie/invoiceninja:latest 'Get your own badge on imagelayers.io')
+[![](https://badge.imagelayers.io/webhippie/invoiceninja:2.4.6.svg)](https://imagelayers.io/?images=webhippie/invoiceninja:2.4.6 'Get your own badge on imagelayers.io')
 
 These are docker images for InvoiceNinja with Caddy running on an
 [PHP container](https://registry.hub.docker.com/u/webhippie/php-caddy/).
@@ -11,7 +11,7 @@ These are docker images for InvoiceNinja with Caddy running on an
 ```bash
 docker run -ti \
   --name invoiceninja \
-  webhippie/invoiceninja:latest
+  webhippie/invoiceninja:2.4.6
 ```
 
 
